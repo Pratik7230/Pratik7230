@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br> -Building full-stack apps with React, Node.js & PostgreSQL<br> -Improving backend performance and database design<br><br>👯 I’m looking to collaborate on<br> -Web apps with unique UI/UX<br> -Real-world problem-solving projects<br><br>🤝 I’m looking for help with<br> -Cloud deployment (AWS, Docker)  <br> -Writing clean, scalable backend code  <br> -Performance optimization  <br><br>🌱 I’m currently learning<br> -NestJS & advanced backend architecture  <br> -Backend optimization techniques<br> -Python (FastAPI) 
+
+Hi there! 👋 I'm **Pratik Patil**.
+
+🚀 Full Stack Developer who loves building modern web applications, APIs, and automation tools.
+
+💡 Things I enjoy:
+- ⚛️ React, Next.js & TypeScript
+- 🟢 Node.js, NestJS & FastAPI
+- 🐘 PostgreSQL, MySQL & MongoDB
+- 🐳 Docker, Linux & DevOps
+- 🤖 AI, Automation & Self-Hosting
+- 🔌 IoT with ESP32, Arduino & Raspberry Pi
+
+I enjoy turning ideas into real products while continuously learning new technologies and improving my development skills.
 
 
 ## 🌐 Socials:
